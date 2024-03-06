@@ -6,7 +6,7 @@ import cvzone
 
 # Twilio credentials
 account_sid = 'AC72091a9d9a794968d461ce2f39dd771b'
-auth_token = 'a10005f0ecd073959b248f7084d20c0e'
+auth_token = '015600450092c8cedfc232f864c0f0e9'
 twilio_phone_number = '+16415416411'
 your_phone_number = '+916361304142'
 
@@ -40,7 +40,7 @@ cv2.setMouseCallback('RGB', RGB)
 
 
 
-cap=cv2.VideoCapture('car.mp4')
+cap=cv2.VideoCapture('cr.mp4')
 
 
 my_file = open("coco1.txt", "r")
